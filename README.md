@@ -1,3 +1,11 @@
+Life of JavaScript
+====
+
+http://resin.io/happy-18th-birthday-javascript/ captures the timeline of JavaScript. And i felt it apt to build a visual timeline using JavaScript. 
+So i brought http://resin.io/happy-18th-birthday-javascript/ and used Life (https://github.com/cheeaun/life) to map it out.
+
+
+
 Life
 ====
 
